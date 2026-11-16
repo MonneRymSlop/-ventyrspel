@@ -1,2 +1,1 @@
-print ("hej erik")
-print("HEEEEEEEJ!!!")
+print("Nytt")

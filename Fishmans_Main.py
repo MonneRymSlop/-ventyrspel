@@ -1,3 +1,8 @@
+#IMPORTS:
 import Title_modul
+import time
 
-Title_modul.print_title()
+svar = input("Vill du starta spelet:" )
+if svar == "ja":
+    Title_modul.print_title()
+
